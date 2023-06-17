@@ -1,0 +1,26 @@
+[
+    {
+        "pt-br":{
+            "name":"Geek Coffee",
+            "description":"Win a coffee and a film.",
+            "date":"21-12-2021",
+            "href":"http://geekcoffe.com"
+        }
+    },
+    {   
+        "pt-br":{
+            "name":"Terninal Jornal",
+            "description":"Win a coffee and a film.",
+            "date":"21-12-2021",
+            "href":"http://geekcoffe.com"
+        }
+    },
+    {
+        "pt-br":{
+            "name":"React",
+            "description":"Win a coffee and a film.",
+            "date":"21-12-2021",
+            "href":"http://geekcoffe.com"
+        }
+    }
+]
